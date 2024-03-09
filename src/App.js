@@ -156,7 +156,6 @@ function App() {
 <button
 
 type='Submit'
-            // onClick={() => handleDeleteUser()}
             className="inline-block rounded bg-indigo-600 px-4 py-2 text-xs font-medium text-white hover:bg-indigo-700"
           >
             Add User
