@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+To run the backend server mannually you gonna need to run following command
+
+### `node index.js`
+
 In the project directory, you can run:
+
+(you can go to clint folder in your editor(like VSCODE) and also run following command)
 
 ### `npm start`
 
